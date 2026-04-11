@@ -2,7 +2,7 @@ module.exports.config = {
  'name': "setbot",
  'version': "1.0.3",
  'hasPermssion': 0x2,
- 'credits': "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+ 'credits': "The Mood Embrace",
  'description': "Command Prompt",
  'commandCategory': "utilities",
  'cooldowns': 0x5,
