@@ -24,7 +24,7 @@ module.exports.run = async function ({ api, event }) {
 ║ 🎂 𝗔𝗴𝗲 : 19
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗦𝗖 26 Batch And Diploma Engineering 3rd Semester, Department : Computer 
+║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗦𝗖 (𝟐𝟎𝟐𝟔) Batch And Diploma Engineering 3rd Semester, Department : Computer 
 ║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : Chandpur 
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
