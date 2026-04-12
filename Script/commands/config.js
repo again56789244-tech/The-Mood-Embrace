@@ -826,9 +826,7 @@ module.exports.run = async ({ event, api }) => {
      + "\n[07] Turn on the bot avatar shield <on/off>"
      + "\n[08] Block users (messenger)"
      + "\n[09] Unblock users (messenger)"
-     + "\n[10] Create post"
-     + "\n[11] Delete post"
-     + "\n[12] Delete post (user)"
+     + "\n[10] Create post
      + "\n[13] Comment the post (group)"
      + "\n[14] Drop post feelings"
      + "\n[15] Make friends by id"
