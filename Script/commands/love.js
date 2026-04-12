@@ -2,7 +2,7 @@ module.exports.config = {
  name: "love",
  version: "7.3.1",
  hasPermssion: 0,
- credits: "—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+ credits: "The Mood Embrace",
  description: "Get Pair From Mention",
  commandCategory: "img",
  usages: "[@mention]",
