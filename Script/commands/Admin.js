@@ -7,7 +7,7 @@ module.exports.config = {
  name: "admin",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "Mahmudur Rahman",
  description: "Show Owner Info",
  commandCategory: "info",
  usages: "admin",
@@ -22,12 +22,12 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│ 👤 𝐍𝐚𝐦𝐞 : 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦
+│ 👤 𝐍𝐚𝐦𝐞 : Mahmudur Rahman 
 │ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : 𝐌𝐚𝐥𝐞
 │ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐒𝐢𝐧𝐠𝐥𝐞
-│ 🎂 𝐀𝐠𝐞 : 𝟏𝟖+
+│ 🎂 𝐀𝐠𝐞 : 19
 │ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : 𝐈𝐬𝐥𝐚𝐦
-│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐇𝐒𝐂 (𝟐𝟎𝟐𝟔)
+│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐇𝐒𝐂 (𝟐𝟎𝟐𝟔) And Diploma Engineering 3rd Semester, Department : Computer
 │ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Chandpur 
 └───────────────⭓
 
