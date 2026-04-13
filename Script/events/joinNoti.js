@@ -34,7 +34,7 @@ module.exports.run = async function({ api, event }) {
   if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
     await api.changeNickname(`[ ${botPrefix} ] • ${botName}`, threadID, api.getCurrentUserID());
 
-    api.sendMessage("চ্ঁলে্ঁ এ্ঁসে্ঁছি্ঁ 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 এঁখঁনঁ তোঁমাঁদেঁরঁ সাঁথেঁ আঁড্ডাঁ দিঁবঁ..!", threadID, () => {
+    api.sendMessage("চ্ঁলে্ঁ এ্ঁসে্ঁছি্ঁ The Mood Embrace এঁখঁনঁ তোঁমাঁদেঁরঁ সাঁথেঁ আঁড্ডাঁ দিঁবঁ..!", threadID, () => {
       const randomGifPath = path.join(__dirname, "cache", "randomgif");
       const allFiles = fs.readdirSync(randomGifPath).filter(file =>
         [".mp4", ".jpg", ".png", ".jpeg", ".gif", ".mp3"].some(ext => file.endsWith(ext))
@@ -60,7 +60,7 @@ ${botPrefix}Admin
 ➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/9779763666466
 
 ❖⋆═══════════════════════⋆❖
-          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔`;
+          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝐌𝐚𝐡𝐦𝐮𝐝𝐮𝐫 𝐑𝐚𝐡𝐦𝐚𝐧 `;
 
       if (selected) {
         api.sendMessage({ body: messageBody, attachment: selected }, threadID);
@@ -99,6 +99,12 @@ ${botPrefix}Admin
 ➤ সবার সাথে মিলেমিশে থাকবেন।😉
 ➤ উস্কানিমূলক কথা বা খারাপ ব্যবহার করবেন না।🚫
 ➤ গ্রুপ এডমিনের কথা শুনবেন ও রুলস মেনে চলবেন।✅
+✅ কারো ওপর রাগ থাকলে ইগনোর করবো, গ্রুপে ইঙ্গিত করে কিছু বলা যাবে না।
+🔹 কারো ইনবক্সে গিয়ে ভালোবাসার কথা, “I Love You”, প্রেমের প্রস্তাব বা প্রেমের আলোচনা সম্পূর্ণ নিষিদ্ধ।
+👉 গ্রুপে কথা বলার সময় যেকোনো কথা হবে মজার ছন্দে, ফান ও পজিটিভ ভাইবসে।
+
+সবার সহযোগিতা কাম্য 🤝
+— ধন্যবাদ ❤️
 
 ›› প্রিয় {name},  
 আপনি এই গ্রুপের {soThanhVien} নম্বর মেম্বার!
